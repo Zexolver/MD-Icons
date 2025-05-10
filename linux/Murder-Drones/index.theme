@@ -1,0 +1,11 @@
+[Icon Theme]
+Name=Murder Drones
+Comment=Custom icon theme based on the Murder Drones series
+Inherits=Qogir,Papirus,Adwaita,hicolor
+
+Directories=apps/48
+
+[apps/48]
+Size=48
+Context=Applications
+Type=Fixed
